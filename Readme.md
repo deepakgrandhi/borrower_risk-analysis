@@ -1,12 +1,9 @@
----
-
 # 🏦 Default Risk Platform
 
 > **An Explainable AI Platform for Probability of Default (PD) Prediction and Credit Risk Assessment**
 
 [Live Demo](#) • [Project Report](#)
 
----
 
 ## 📌 Overview
 
@@ -22,25 +19,6 @@ Unlike a traditional ML notebook, this project delivers a deployable web applica
 
 The platform demonstrates a reusable architecture that can evolve into a production-ready MSME credit intelligence system.
 
----
-
-# 📷 Application Preview
-
-## Retail Credit Risk Assessment
-
-```markdown
-![Retail Demo](assets/retail-demo.png)
-```
-
----
-
-## SME Credit Risk Assessment
-
-```markdown
-![SME Demo](assets/sme-demo.png)
-```
-
----
 
 # ✨ Features
 
