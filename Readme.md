@@ -1,9 +1,3 @@
-I actually think this is the perfect time to **rewrite** the README instead of appending to the old one.
-
-Looking at your app now, you've crossed the line from "ML notebook" to "working product." The README should reflect that.
-
-I would structure it like this:
-
 ---
 
 # 🏦 Default Risk Platform
@@ -35,7 +29,7 @@ The platform demonstrates a reusable architecture that can evolve into a product
 ## Retail Credit Risk Assessment
 
 ```markdown
-![Retail Demo](./assets/retail-demo.png)
+![Retail Demo](assets/retail-demo.png)
 ```
 
 ---
@@ -43,7 +37,7 @@ The platform demonstrates a reusable architecture that can evolve into a product
 ## SME Credit Risk Assessment
 
 ```markdown
-![SME Demo](./assets/sme-demo.png)
+![SME Demo](assets/sme-demo.png)
 ```
 
 ---
